@@ -1,8 +1,8 @@
 <LayoutModificationTemplate xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification">
-  <LayoutOptions StartTileGroupCellWidth="1" />
+  <LayoutOptions StartTileGroupCellWidth="7" />
   <DefaultLayoutOverride>
     <StartLayoutCollection>
-      <defaultlayout:StartLayout GroupCellWidth="1" />
+      <defaultlayout:StartLayout GroupCellWidth="7" />
     </StartLayoutCollection>
   </DefaultLayoutOverride>
 </LayoutModificationTemplate>
